@@ -9,7 +9,7 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     ResumeBuilderGithub : "https://github.com/sayleephadte/Resume-Builder",
     ResumeBuilderWebsite : "https://resume-builder-theta-blond.vercel.app/",
 
-    OSaborDesc : "Developed a website a spice manufacturing brand called Osabor. Its developed using React, Tailwind Css and hosted on GoDaddy platform.",
+    OSaborDesc : "Developed a website for a spice manufacturing brand called Osabor. Its developed using React, Tailwind Css and hosted on GoDaddy platform.",
     OSaborGithub : "",
     OSaborWebsite : "https://www.osaborfoods.com/",
 
