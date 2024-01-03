@@ -13,6 +13,10 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     OSaborGithub : "",
     OSaborWebsite : "https://www.osaborfoods.com/",
 
+    TranslatekarBackendDesc : "This is the backend API for translatekar application. It's built using Python, mainly Flask.",
+    TranslatekarBackendGithub : "https://github.com/sayleephadte/deploy_tf_model-master",
+    TranslatekarBackendWebsite : "",
+
     TranslatekarDesc : "The Translatekar Application is a web-based tool that allows users to translate text between different languages. It consists of a frontend, built with React and styled with Tailwind CSS, and a backend API.",
     TranslatekarGithub : "https://github.com/sayleephadte/translatekar-frontend",
     TranslatekarWebsite : "https://translatekar-frontend.vercel.app/",
