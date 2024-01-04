@@ -6,12 +6,14 @@ import ResumeBuilderImage from '../images/ResumeBuilderImage.png';
 import SpeedCheckerImage from '../images/SpeedCheckerImage.png';
 import OSaborImage from '../images/OSaborImage.png';
 import ProjectImage from '../images/ProjectImage.jpg';
+import PasswordGeneratorImage from '../images/PasswordGeneratorImage.png';
 
 const Projects = () => {
   return (
     <div>
       <h1 className='projectHeading'>My <b>Projects</b></h1>
       <div className='project'>
+        <ProjectBox projectPhoto={PasswordGeneratorImage} projectName="PasswordGenerator" />  
         <ProjectBox projectPhoto={ResumeBuilderImage} projectName="ResumeBuilder" />
         <ProjectBox projectPhoto={OSaborImage} projectName="OSabor" />
         <ProjectBox projectPhoto={ProjectImage} projectName="TranslatekarBackend" />
