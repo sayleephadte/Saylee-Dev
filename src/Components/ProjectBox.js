@@ -7,7 +7,7 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
   const desc = {
     PasswordGeneratorDesc : "This is a simple random password generating project. It's developed using Angular 15 and Bootstrap.",
     PasswordGeneratorGithub : "https://github.com/sayleephadte/Password-Generator",
-    PasswordGeneratorWebsite : "https://password-generator-gray-phi.vercel.app/",
+    PasswordGeneratorWebsite : "https://password-generator-kohl-delta.vercel.app/",
 
     ResumeBuilderDesc : "This website allows users to easily create professional and personalized resumes. Its developed using React, Chakra UI and Bootstrap.",
     ResumeBuilderGithub : "https://github.com/sayleephadte/Resume-Builder",
